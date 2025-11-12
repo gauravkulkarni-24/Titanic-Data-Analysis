@@ -59,7 +59,3 @@ The **Titanic dataset** offers deep insights into early 20th-century travel beha
 Through this analysis, we can understand not only demographic and economic patterns but also how data storytelling through visualizations can reveal meaningful insights.
 
 ---
-
-### 💡 Author
-**Project by:** Gaurav Kulkarni  
-**GitHub Repository:** [Add your repo link here after uploading]
